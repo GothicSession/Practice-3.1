@@ -1,0 +1,5 @@
+D:\Documents\baso01\Chapter01\lesson3-exercise1-Person-partial-cs\CreateStruct\CreateStruct\bin\Debug\CreateStruct.exe
+D:\Documents\baso01\Chapter01\lesson3-exercise1-Person-partial-cs\CreateStruct\CreateStruct\bin\Debug\CreateStruct.pdb
+D:\Documents\baso01\Chapter01\lesson3-exercise1-Person-partial-cs\CreateStruct\CreateStruct\obj\Debug\CreateStruct.csprojAssemblyReference.cache
+D:\Documents\baso01\Chapter01\lesson3-exercise1-Person-partial-cs\CreateStruct\CreateStruct\obj\Debug\CreateStruct.exe
+D:\Documents\baso01\Chapter01\lesson3-exercise1-Person-partial-cs\CreateStruct\CreateStruct\obj\Debug\CreateStruct.pdb
