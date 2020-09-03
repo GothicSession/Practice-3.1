@@ -10,7 +10,8 @@ namespace CreateStruct
         {
             Manager p = new Manager("Tony", "Allen", 32, Person.Genders.Male, "8999948343", "Kuznetcova 3A");
             Console.WriteLine(p.ToString());
-        }
+      Console.ReadLine();
+    }
 
         class Person
         {
